@@ -1,0 +1,24 @@
+form{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.classInput input{
+    width: 200px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+
+}
+textarea{
+    width: 200px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+}
